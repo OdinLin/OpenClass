@@ -1,0 +1,91 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   StanFord_MachineLearning/ex1/ex1.pdf
+#	new file:   StanFord_MachineLearning/ex1/ex1/computeCost.m
+#	new file:   StanFord_MachineLearning/ex1/ex1/computeCostMulti.m
+#	new file:   StanFord_MachineLearning/ex1/ex1/ex1.m
+#	new file:   StanFord_MachineLearning/ex1/ex1/ex1_multi.m
+#	new file:   StanFord_MachineLearning/ex1/ex1/ex1data1.txt
+#	new file:   StanFord_MachineLearning/ex1/ex1/ex1data2.txt
+#	new file:   StanFord_MachineLearning/ex1/ex1/featureNormalize.m
+#	new file:   StanFord_MachineLearning/ex1/ex1/gradientDescent.m
+#	new file:   StanFord_MachineLearning/ex1/ex1/gradientDescentMulti.m
+#	new file:   StanFord_MachineLearning/ex1/ex1/ml_login_data.mat
+#	new file:   StanFord_MachineLearning/ex1/ex1/normalEqn.m
+#	new file:   StanFord_MachineLearning/ex1/ex1/plotData.m
+#	new file:   StanFord_MachineLearning/ex1/ex1/submit.m
+#	new file:   StanFord_MachineLearning/ex1/ex1/test.m
+#	new file:   StanFord_MachineLearning/ex1/ex1/warmUpExercise.m
+#	new file:   StanFord_MachineLearning/ex2/ex2.pdf
+#	new file:   StanFord_MachineLearning/ex2/ex2/costFunction.m
+#	new file:   StanFord_MachineLearning/ex2/ex2/costFunctionReg.m
+#	new file:   StanFord_MachineLearning/ex2/ex2/ex2.m
+#	new file:   StanFord_MachineLearning/ex2/ex2/ex2_reg.m
+#	new file:   StanFord_MachineLearning/ex2/ex2/ex2data1.txt
+#	new file:   StanFord_MachineLearning/ex2/ex2/ex2data2.txt
+#	new file:   StanFord_MachineLearning/ex2/ex2/mapFeature.m
+#	new file:   StanFord_MachineLearning/ex2/ex2/ml_login_data.mat
+#	new file:   StanFord_MachineLearning/ex2/ex2/plotData.m
+#	new file:   StanFord_MachineLearning/ex2/ex2/plotDecisionBoundary.m
+#	new file:   StanFord_MachineLearning/ex2/ex2/predict.m
+#	new file:   StanFord_MachineLearning/ex2/ex2/sigmoid.m
+#	new file:   StanFord_MachineLearning/ex2/ex2/submit.m
+#	new file:   StanFord_MachineLearning/ex3/ex3.pdf
+#	new file:   StanFord_MachineLearning/ex3/ex3/displayData.m
+#	new file:   StanFord_MachineLearning/ex3/ex3/ex3.m
+#	new file:   StanFord_MachineLearning/ex3/ex3/ex3_nn.m
+#	new file:   StanFord_MachineLearning/ex3/ex3/ex3data1.mat
+#	new file:   StanFord_MachineLearning/ex3/ex3/ex3weights.mat
+#	new file:   StanFord_MachineLearning/ex3/ex3/fmincg.m
+#	new file:   StanFord_MachineLearning/ex3/ex3/lrCostFunction.m
+#	new file:   StanFord_MachineLearning/ex3/ex3/ml_login_data.mat
+#	new file:   StanFord_MachineLearning/ex3/ex3/oneVsAll.m
+#	new file:   StanFord_MachineLearning/ex3/ex3/predict.m
+#	new file:   StanFord_MachineLearning/ex3/ex3/predictOneVsAll.m
+#	new file:   StanFord_MachineLearning/ex3/ex3/sigmoid.m
+#	new file:   StanFord_MachineLearning/ex3/ex3/submit.m
+#	new file:   StanFord_MachineLearning/ex3/ex3/submitWeb.m
+#	new file:   StanFord_MachineLearning/ex4/ex4.pdf
+#	new file:   StanFord_MachineLearning/ex4/ex4/checkNNGradients.m
+#	new file:   StanFord_MachineLearning/ex4/ex4/computeNumericalGradient.m
+#	new file:   StanFord_MachineLearning/ex4/ex4/debugInitializeWeights.m
+#	new file:   StanFord_MachineLearning/ex4/ex4/displayData.m
+#	new file:   StanFord_MachineLearning/ex4/ex4/ex4.m
+#	new file:   StanFord_MachineLearning/ex4/ex4/ex4data1.mat
+#	new file:   StanFord_MachineLearning/ex4/ex4/ex4weights.mat
+#	new file:   StanFord_MachineLearning/ex4/ex4/fmincg.m
+#	new file:   StanFord_MachineLearning/ex4/ex4/nnCostFunction.m
+#	new file:   StanFord_MachineLearning/ex4/ex4/predict.m
+#	new file:   StanFord_MachineLearning/ex4/ex4/randInitializeWeights.m
+#	new file:   StanFord_MachineLearning/ex4/ex4/sigmoid.m
+#	new file:   StanFord_MachineLearning/ex4/ex4/sigmoidGradient.m
+#	new file:   StanFord_MachineLearning/ex4/ex4/submit.m
+#	new file:   StanFord_MachineLearning/ex4/ex4/submitWeb.m
+#	new file:   StanFord_MachineLearning/ex5/ex5.pdf
+#	new file:   StanFord_MachineLearning/ex5/ex5/ex5.m
+#	new file:   StanFord_MachineLearning/ex5/ex5/ex5data1.mat
+#	new file:   StanFord_MachineLearning/ex5/ex5/featureNormalize.m
+#	new file:   StanFord_MachineLearning/ex5/ex5/fmincg.m
+#	new file:   StanFord_MachineLearning/ex5/ex5/learningCurve.m
+#	new file:   StanFord_MachineLearning/ex5/ex5/linearRegCostFunction.m
+#	new file:   StanFord_MachineLearning/ex5/ex5/ml_login_data.mat
+#	new file:   StanFord_MachineLearning/ex5/ex5/octave-core
+#	new file:   StanFord_MachineLearning/ex5/ex5/plotFit.m
+#	new file:   StanFord_MachineLearning/ex5/ex5/polyFeatures.m
+#	new file:   StanFord_MachineLearning/ex5/ex5/submit.m
+#	new file:   StanFord_MachineLearning/ex5/ex5/submitWeb.m
+#	new file:   StanFord_MachineLearning/ex5/ex5/trainLinearReg.m
+#	new file:   StanFord_MachineLearning/ex5/ex5/validationCurve.m
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	.gitattributes
+#	.gitignore
+folder
+
